@@ -1,4 +1,4 @@
-# Gesture-enabled-commands
+# Gevis
 <i>SIH-2022</i>
 
 ## Problem statement title
